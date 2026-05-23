@@ -9,9 +9,9 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <main className="min-h-screen bg-gradient-to-br from-[#071b0f] via-[#0b1f13] to-[#071b0f] overflow-hidden">
+    <main className="min-h-screen bg-gradient-to-br from-[#06150c] via-[#071b0f] to-[#041008] overflow-hidden">
 
-      <div className="max-w-[1500px] mx-auto">
+      <div className="max-w-[1600px] mx-auto">
 
         <Navbar />
 
